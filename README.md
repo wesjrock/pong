@@ -19,7 +19,9 @@ Clone Pong repository:
 Compiling and Running Pong:
 
 ```bash
-  The easiest way to compile the code is through Codeblocks-Edu-Portable (Windows Only) which Codeblocks IDE that has support to 2D/3D graphics libraries like graphics.h and GLUT (This version of codeblocks includes GCC 4.4.5).
+  The easiest way to compile the code is through Codeblocks-Edu-Portable (Windows Only) which is
+  Codeblocks IDE that has support to 2D/3D graphics libraries like graphics.h and GLUT
+  (This version of codeblocks includes GCC 4.4.5).
   You can find Codeblocks-Edu-Portable on <http://codeblocks.codecutter.org/>
   
   After installing Codeblocks-EP, follow the steps below:
