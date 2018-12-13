@@ -44,4 +44,5 @@ HOW TO PLAY
 MORE INFO
 --------------------------------------------------
 
-* graphics.h library <https://en.wikipedia.org/wiki/Borland_Graphics_Interface>
+* pong: <https://en.wikipedia.org/wiki/Pong>
+* graphics.h library: <https://en.wikipedia.org/wiki/Borland_Graphics_Interface>
