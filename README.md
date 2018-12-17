@@ -5,7 +5,7 @@
 OVERVIEW
 --------------------------------------------------
 This is an implementation of a pong game for the [Introduction to Computer Science I
-][ICC1] course. The purpose of this project was to develop a retro game using the C language programming and Borland Graphics Library (graphics.h) which was known in the old days of MS-DOS.  It was made at the Computer Science course (ICMC - USP).
+][ICC1] course. The purpose of this project was to develop a retro game using the C language programming and Borland Graphics Library (graphics.h) which was known in the old days of MS-DOS.  It was made at the Computer Science course from University of São Paulo (ICMC - USP).
 
 BUILD AND INSTALL
 --------------------------------------------------
