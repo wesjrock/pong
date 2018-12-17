@@ -1,4 +1,4 @@
-# Pong (C language)
+# Pong 
 
 ![Screenshot 1](img/screenshot.png)
 
