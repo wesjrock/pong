@@ -41,6 +41,11 @@ HOW TO PLAY
   PLAYER 2: UP DOWN RIGHT LEFT
 ```
 
+TEAM
+--------------------------------------------------
+- André Miguel Coelho Leite
+- Wesley Tiozzo
+
 MORE INFO
 --------------------------------------------------
 
